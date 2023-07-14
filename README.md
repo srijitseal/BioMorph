@@ -15,8 +15,11 @@ We used machine learning models and feature selection approaches to group cell m
 
 HIGHLIGHTS
 •	Combining Cell Painting and Cell Health imaging data defines the BioMorph space.
+
 •	BioMorph space allows detecting less common mechanisms for bioactive compounds.
+
 •	BioMorph space can generate MOA hypotheses to guide experimental validation.
+
 •	BioMorph space is more biologically relevant and interpretable than Cell Painting features. 
 
 SUMMARY 
