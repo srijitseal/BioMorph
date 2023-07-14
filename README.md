@@ -18,7 +18,7 @@ Cell Painting; Cell Health; BioMorph; Toxicity Prediction; Cell Morphology; Inte
 IN BRIEF
 We used machine learning models and feature selection approaches to group cell morphological features from Cell Painting assays and to describe the shared role of these morphological features in various cell health phenotypes. The resulting BioMorph space improves the ability to understand the mechanism of action and toxicity of compounds and to generate hypotheses to guide future experiments.
 
-![logo](https://github.com/srijitseal/BioMorph_Space/assets/58182863/cd7008b3-90a7-471f-bc90-fc0d3795dd6c)
+![image](https://github.com/srijitseal/BioMorph_Space/assets/58182863/ac286179-b33c-44d8-8f49-967894313123)
 
 HIGHLIGHTS
 •	Combining Cell Painting and Cell Health imaging data defines the BioMorph space.
