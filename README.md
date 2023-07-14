@@ -9,6 +9,7 @@ From Pixels to Phenotypes: Integrating Image-Based Profiling with Cell Health Da
 
 Srijit Seal, Jordi Carreras-Puigvert, Anne E Carpenter, Ola Spjuth*, Andreas Bender*
  
+
 IN BRIEF
 
 We used machine learning models and feature selection approaches to group cell morphological features from Cell Painting assays and to describe the shared role of these morphological features in various cell health phenotypes. The resulting BioMorph space improves the ability to understand the mechanism of action and toxicity of compounds and to generate hypotheses to guide future experiments.
