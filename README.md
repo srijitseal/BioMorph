@@ -6,6 +6,7 @@ Preprint at:
 Datasets at: https://zenodo.org/record/8147310
 
 From Pixels to Phenotypes: Integrating Image-Based Profiling with Cell Health Data Improves Interpretability 
+
 Srijit Seal, Jordi Carreras-Puigvert, Anne E Carpenter, Ola Spjuth*, Andreas Bender*
  
 IN BRIEF
