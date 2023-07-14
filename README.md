@@ -6,15 +6,7 @@ Preprint at:
 Datasets at: https://zenodo.org/record/8147310
 
 From Pixels to Phenotypes: Integrating Image-Based Profiling with Cell Health Data Improves Interpretability 
-Srijit Seal1, Jordi Carreras-Puigvert2, Anne E Carpenter3, Ola Spjuth*2, Andreas Bender*1
-
-1Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge, United Kingdom
-2Department of Pharmaceutical Biosciences and Science for Life Laboratory, Uppsala University, Uppsala, Sweden
-3Imaging Platform, Broad Institute of MIT and Harvard, Cambridge MA, USA
-
-Cell Painting; Cell Health; BioMorph; Toxicity Prediction; Cell Morphology; Interpretability; Image-based profiling; machine learning
-
-* Email: ola.spjuth@farmbio.uu.se, ab454@cam.ac.uk
+Srijit Seal, Jordi Carreras-Puigvert, Anne E Carpenter, Ola Spjuth*, Andreas Bender*
  
 IN BRIEF
 We used machine learning models and feature selection approaches to group cell morphological features from Cell Painting assays and to describe the shared role of these morphological features in various cell health phenotypes. The resulting BioMorph space improves the ability to understand the mechanism of action and toxicity of compounds and to generate hypotheses to guide future experiments.
